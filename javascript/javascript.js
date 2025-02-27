@@ -1,1 +1,2 @@
-
+functuion sayHi() {
+  alert("HI");
