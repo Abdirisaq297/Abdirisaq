@@ -25,3 +25,17 @@ footer {
   background-color: #0B4EA2;
   color: white;
 }
+.logo {
+  max-width: 100p;
+}
+.sections {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+.section {
+  width: 45%;
+  padding: 20px;
+  border: 1px solid;
+    background-color:#0B4EA2 
+}
